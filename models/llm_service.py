@@ -27,8 +27,8 @@ class LlamaVisionService:
         """
         # Set up authentication credentials
         credentials = Credentials(
-            url=f"https://{region}.ml.cloud.ibm.com",
-            api_key=api_key
+            # url=f"https://{region}.ml.cloud.ibm.com", # set up own service URL 
+            api_key=api_key # set up in secrets
         )
         self.client = APIClient(credentials)
         
