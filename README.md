@@ -1,6 +1,7 @@
 # Style Finder - Multimodal RAG Fashion Analyzer
 
 **Developed by: Hailey Quach, IBM Instructor**  
+**Implementer: Andrew Ihnativ**  
 **Course lab: Build a Style Finder Using Multimodal Retrieval and Search**  
 **Organization: IBM Skills Network**
 
